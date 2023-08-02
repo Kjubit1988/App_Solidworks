@@ -1,0 +1,401 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "App_Solidworks/1.0.0": {
+        "dependencies": {
+          "Aspose.Slides.NET": "23.5.0",
+          "SolidWorks.Interop.cosworks": "31.0.1.4",
+          "SolidWorks.Interop.dsgnchk": "31.0.1.4",
+          "SolidWorks.Interop.fworks": "31.0.1.4",
+          "SolidWorks.Interop.gtswutilities": "31.0.1.4",
+          "SolidWorks.Interop.sldcostingapi": "31.0.1.4",
+          "SolidWorks.Interop.sldtoolboxconfigureaddin": "31.0.1.4",
+          "SolidWorks.Interop.sldworks": "31.0.1.4",
+          "SolidWorks.Interop.sustainability": "31.0.1.4",
+          "SolidWorks.Interop.sw3dprinter": "31.0.1.4",
+          "SolidWorks.Interop.swbrowser": "31.0.1.4",
+          "SolidWorks.Interop.swcommands": "31.0.1.4",
+          "SolidWorks.Interop.swconst": "31.0.1.4",
+          "SolidWorks.Interop.swdimxpert": "31.0.1.4",
+          "SolidWorks.Interop.swdocumentmgr": "31.0.1.4",
+          "SolidWorks.Interop.swmotionstudy": "31.0.1.4",
+          "SolidWorks.Interop.swpublished": "31.0.1.4",
+          "SolidWorks.Interop.SWRoutingLib": "31.0.1.4",
+          "SolidWorks.MacroBuilder": "31.0.1.4",
+          "SolidWorksExcelOnlineWrapper": "31.0.1.4",
+          "SolidworksLoginClient": "31.0.1.4",
+          "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.17763.28"
+        },
+        "runtime": {
+          "App_Solidworks.dll": {}
+        }
+      },
+      "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.17763.28": {
+        "runtime": {
+          "Microsoft.Windows.SDK.NET.dll": {
+            "assemblyVersion": "10.0.17763.24",
+            "fileVersion": "10.0.17763.28"
+          },
+          "WinRT.Runtime.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.1.40881"
+          }
+        }
+      },
+      "Aspose.Slides.NET/23.5.0": {
+        "dependencies": {
+          "System.Text.Encoding.CodePages": "4.4.0"
+        },
+        "runtime": {
+          "lib/net6.0/Aspose.Slides.dll": {
+            "assemblyVersion": "23.5.0.0",
+            "fileVersion": "23.5.0.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/2.0.0": {},
+      "System.Text.Encoding.CodePages/4.4.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "2.0.0"
+        }
+      },
+      "SolidWorks.Interop.cosworks/31.0.1.4": {
+        "runtime": {
+          "SolidWorks.Interop.cosworks.dll": {
+            "assemblyVersion": "31.0.1.4",
+            "fileVersion": "31.0.1.4"
+          }
+        }
+      },
+      "SolidWorks.Interop.dsgnchk/31.0.1.4": {
+        "runtime": {
+          "SolidWorks.Interop.dsgnchk.dll": {
+            "assemblyVersion": "31.0.1.4",
+            "fileVersion": "31.0.1.4"
+          }
+        }
+      },
+      "SolidWorks.Interop.fworks/31.0.1.4": {
+        "runtime": {
+          "SolidWorks.Interop.fworks.dll": {
+            "assemblyVersion": "31.0.1.4",
+            "fileVersion": "31.0.1.4"
+          }
+        }
+      },
+      "SolidWorks.Interop.gtswutilities/31.0.1.4": {
+        "runtime": {
+          "SolidWorks.Interop.gtswutilities.dll": {
+            "assemblyVersion": "31.0.1.4",
+            "fileVersion": "31.0.1.4"
+          }
+        }
+      },
+      "SolidWorks.Interop.sldcostingapi/31.0.1.4": {
+        "runtime": {
+          "SolidWorks.Interop.sldcostingapi.dll": {
+            "assemblyVersion": "31.0.1.4",
+            "fileVersion": "31.0.1.4"
+          }
+        }
+      },
+      "SolidWorks.Interop.sldtoolboxconfigureaddin/31.0.1.4": {
+        "runtime": {
+          "SolidWorks.Interop.sldtoolboxconfigureaddin.dll": {
+            "assemblyVersion": "31.0.1.4",
+            "fileVersion": "31.0.1.4"
+          }
+        }
+      },
+      "SolidWorks.Interop.sldworks/31.0.1.4": {
+        "runtime": {
+          "SolidWorks.Interop.sldworks.dll": {
+            "assemblyVersion": "31.0.1.4",
+            "fileVersion": "31.0.1.4"
+          }
+        }
+      },
+      "SolidWorks.Interop.sustainability/31.0.1.4": {
+        "runtime": {
+          "SolidWorks.Interop.sustainability.dll": {
+            "assemblyVersion": "31.0.1.4",
+            "fileVersion": "31.0.1.4"
+          }
+        }
+      },
+      "SolidWorks.Interop.sw3dprinter/31.0.1.4": {
+        "runtime": {
+          "SolidWorks.Interop.sw3dprinter.dll": {
+            "assemblyVersion": "31.0.1.4",
+            "fileVersion": "31.0.1.4"
+          }
+        }
+      },
+      "SolidWorks.Interop.swbrowser/31.0.1.4": {
+        "runtime": {
+          "SolidWorks.Interop.swbrowser.dll": {
+            "assemblyVersion": "31.0.1.4",
+            "fileVersion": "31.0.1.4"
+          }
+        }
+      },
+      "SolidWorks.Interop.swcommands/31.0.1.4": {
+        "runtime": {
+          "SolidWorks.Interop.swcommands.dll": {
+            "assemblyVersion": "31.0.1.4",
+            "fileVersion": "31.0.1.4"
+          }
+        }
+      },
+      "SolidWorks.Interop.swconst/31.0.1.4": {
+        "runtime": {
+          "SolidWorks.Interop.swconst.dll": {
+            "assemblyVersion": "31.0.1.4",
+            "fileVersion": "31.0.1.4"
+          }
+        }
+      },
+      "SolidWorks.Interop.swdimxpert/31.0.1.4": {
+        "runtime": {
+          "SolidWorks.Interop.swdimxpert.dll": {
+            "assemblyVersion": "31.0.1.4",
+            "fileVersion": "31.0.1.4"
+          }
+        }
+      },
+      "SolidWorks.Interop.swdocumentmgr/31.0.1.4": {
+        "runtime": {
+          "SolidWorks.Interop.swdocumentmgr.dll": {
+            "assemblyVersion": "31.0.1.4",
+            "fileVersion": "31.0.1.4"
+          }
+        }
+      },
+      "SolidWorks.Interop.swmotionstudy/31.0.1.4": {
+        "runtime": {
+          "SolidWorks.Interop.swmotionstudy.dll": {
+            "assemblyVersion": "31.0.1.4",
+            "fileVersion": "31.0.1.4"
+          }
+        }
+      },
+      "SolidWorks.Interop.swpublished/31.0.1.4": {
+        "runtime": {
+          "SolidWorks.Interop.swpublished.dll": {
+            "assemblyVersion": "31.0.1.4",
+            "fileVersion": "31.0.1.4"
+          }
+        }
+      },
+      "SolidWorks.Interop.SWRoutingLib/31.0.1.4": {
+        "runtime": {
+          "SolidWorks.Interop.SWRoutingLib.dll": {
+            "assemblyVersion": "31.0.1.4",
+            "fileVersion": "31.0.1.4"
+          }
+        }
+      },
+      "SolidWorks.MacroBuilder/31.0.1.4": {
+        "runtime": {
+          "SolidWorks.MacroBuilder.dll": {
+            "assemblyVersion": "31.0.1.4",
+            "fileVersion": "31.0.1.4"
+          }
+        }
+      },
+      "SolidWorksExcelOnlineWrapper/31.0.1.4": {
+        "runtime": {
+          "SolidWorksExcelOnlineWrapper.dll": {
+            "assemblyVersion": "31.0.1.4",
+            "fileVersion": "31.0.1.4"
+          }
+        }
+      },
+      "SolidworksLoginClient/31.0.1.4": {
+        "runtime": {
+          "SolidworksLoginClient.dll": {
+            "assemblyVersion": "31.0.1.4",
+            "fileVersion": "31.0.1.4"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.0.0": {
+        "runtime": {
+          "Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "loginManagerUtils/31.0.1.4": {
+        "runtime": {
+          "loginManagerUtils.dll": {
+            "assemblyVersion": "31.0.1.4",
+            "fileVersion": "31.0.1.4"
+          }
+        }
+      },
+      "loginManagerCore/31.0.1.4": {
+        "runtime": {
+          "loginManagerCore.dll": {
+            "assemblyVersion": "31.0.1.4",
+            "fileVersion": "31.0.1.4"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App_Solidworks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.17763.28": {
+      "type": "runtimepack",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Aspose.Slides.NET/23.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hxInvrJsO8uKXSxvuXvyo968xzPnZ6wbSWnjWpOCcuIPFjwqNmZWS84YP+VvezdHVfxZR4SgoSYsq0/yO1Q2qQ==",
+      "path": "aspose.slides.net/23.5.0",
+      "hashPath": "aspose.slides.net.23.5.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VdLJOCXhZaEMY7Hm2GKiULmn7IEPFE4XC5LPSfBVCUIA8YLZVh846gtfBJalsPQF2PlzdD7ecX7DZEulJ402ZQ==",
+      "path": "microsoft.netcore.platforms/2.0.0",
+      "hashPath": "microsoft.netcore.platforms.2.0.0.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6JX7ZdaceBiLKLkYt8zJcp4xTJd1uYyXXEkPw6mnlUIjh1gZPIVKPtRXPmY5kLf6DwZmf5YLwR3QUrRonl7l0A==",
+      "path": "system.text.encoding.codepages/4.4.0",
+      "hashPath": "system.text.encoding.codepages.4.4.0.nupkg.sha512"
+    },
+    "SolidWorks.Interop.cosworks/31.0.1.4": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidWorks.Interop.dsgnchk/31.0.1.4": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidWorks.Interop.fworks/31.0.1.4": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidWorks.Interop.gtswutilities/31.0.1.4": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidWorks.Interop.sldcostingapi/31.0.1.4": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidWorks.Interop.sldtoolboxconfigureaddin/31.0.1.4": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidWorks.Interop.sldworks/31.0.1.4": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidWorks.Interop.sustainability/31.0.1.4": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidWorks.Interop.sw3dprinter/31.0.1.4": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidWorks.Interop.swbrowser/31.0.1.4": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidWorks.Interop.swcommands/31.0.1.4": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidWorks.Interop.swconst/31.0.1.4": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidWorks.Interop.swdimxpert/31.0.1.4": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidWorks.Interop.swdocumentmgr/31.0.1.4": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidWorks.Interop.swmotionstudy/31.0.1.4": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidWorks.Interop.swpublished/31.0.1.4": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidWorks.Interop.SWRoutingLib/31.0.1.4": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidWorks.MacroBuilder/31.0.1.4": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidWorksExcelOnlineWrapper/31.0.1.4": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidworksLoginClient/31.0.1.4": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "loginManagerUtils/31.0.1.4": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "loginManagerCore/31.0.1.4": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

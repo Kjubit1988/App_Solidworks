@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UF4rr3+JENNBVYPEK8MGoCVVtjkZh6jEa9GJJxnOkz25k7CZK9v+L/dPBYk/tHEbKSZi77AZmb5B+Id7rZcUuA==",
+  "success": true,
+  "projectFilePath": "\\\\ROSTRAFS\\Konstrukce1\\5D model\\Šablony Solidworks\\Makra\\hokusy pokusy\\App pro vymezovací rámeček\\App_Solidworks\\App_Solidworks.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Orsak\\.nuget\\packages\\aspose.slides.net\\23.5.0\\aspose.slides.net.23.5.0.nupkg.sha512",
+    "C:\\Users\\Orsak\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Orsak\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512",
+    "C:\\Users\\Orsak\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.28\\microsoft.windows.sdk.net.ref.10.0.17763.28.nupkg.sha512"
+  ],
+  "logs": []
+}

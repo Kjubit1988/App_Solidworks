@@ -1,0 +1,123 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WinFormsApp1/1.0.0": {
+        "dependencies": {
+          "SolidWorks.Interop.sldworks": "29.5.1.1",
+          "SolidWorks.Interop.swbrowser": "29.5.1.1",
+          "SolidWorks.Interop.swcommands": "29.5.1.1",
+          "SolidWorks.Interop.swconst": "29.5.1.1",
+          "SolidWorks.Interop.swdimxpert": "29.5.1.1",
+          "SolidWorks.Interop.swdocumentmgr": "29.5.1.1",
+          "SolidWorks.Interop.swpublished": "29.5.1.1"
+        },
+        "runtime": {
+          "WinFormsApp1.dll": {}
+        }
+      },
+      "SolidWorks.Interop.sldworks/29.5.1.1": {
+        "runtime": {
+          "SolidWorks.Interop.sldworks.dll": {
+            "assemblyVersion": "29.5.1.1",
+            "fileVersion": "29.5.1.1"
+          }
+        }
+      },
+      "SolidWorks.Interop.swbrowser/29.5.1.1": {
+        "runtime": {
+          "SolidWorks.Interop.swbrowser.dll": {
+            "assemblyVersion": "29.5.1.1",
+            "fileVersion": "29.5.1.1"
+          }
+        }
+      },
+      "SolidWorks.Interop.swcommands/29.5.1.1": {
+        "runtime": {
+          "SolidWorks.Interop.swcommands.dll": {
+            "assemblyVersion": "29.5.1.1",
+            "fileVersion": "29.5.1.1"
+          }
+        }
+      },
+      "SolidWorks.Interop.swconst/29.5.1.1": {
+        "runtime": {
+          "SolidWorks.Interop.swconst.dll": {
+            "assemblyVersion": "29.5.1.1",
+            "fileVersion": "29.5.1.1"
+          }
+        }
+      },
+      "SolidWorks.Interop.swdimxpert/29.5.1.1": {
+        "runtime": {
+          "SolidWorks.Interop.swdimxpert.dll": {
+            "assemblyVersion": "29.5.1.1",
+            "fileVersion": "29.5.1.1"
+          }
+        }
+      },
+      "SolidWorks.Interop.swdocumentmgr/29.5.1.1": {
+        "runtime": {
+          "SolidWorks.Interop.swdocumentmgr.dll": {
+            "assemblyVersion": "29.5.1.1",
+            "fileVersion": "29.5.1.1"
+          }
+        }
+      },
+      "SolidWorks.Interop.swpublished/29.5.1.1": {
+        "runtime": {
+          "SolidWorks.Interop.swpublished.dll": {
+            "assemblyVersion": "29.5.1.1",
+            "fileVersion": "29.5.1.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidWorks.Interop.sldworks/29.5.1.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidWorks.Interop.swbrowser/29.5.1.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidWorks.Interop.swcommands/29.5.1.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidWorks.Interop.swconst/29.5.1.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidWorks.Interop.swdimxpert/29.5.1.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidWorks.Interop.swdocumentmgr/29.5.1.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolidWorks.Interop.swpublished/29.5.1.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
